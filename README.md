@@ -1,4 +1,4 @@
-# SIGMOD Programming Contest 2019
+# SIGMOD Programming Contest 2019 Finalist Solution Code
 ## Team Name:
 + leyenda
 ## Team Member:
